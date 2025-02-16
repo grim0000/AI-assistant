@@ -16,7 +16,7 @@ gh auth login
 
 REM Create a new GitHub repository
 REM Replace YOUR_GITHUB_USERNAME and YOUR_REPOSITORY_NAME with your GitHub username and desired repository name
-gh repo create YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME --public --confirm
+gh repo create grim0000/AIassistant --public --confirm
 
 REM Initialize a new Git repository
 git init
