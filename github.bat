@@ -28,7 +28,7 @@ REM Commit the changes with a message
 git commit -m "Initial commit"
 
 REM Add the remote repository URL
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+git remote add origin https://github.com/grim0000/AIassistant.git
 
 REM Push the changes to the remote repository
 git push -u origin master
